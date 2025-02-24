@@ -1,5 +1,3 @@
+Data Analyst | Python, SQL, Tableau | Data-Driven Insights
 
-<!---
-wilson999469/wilson999469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about transforming raw data into actionable insights. Skilled in data analysis, visualization, and database management. Experienced with Python (Pandas, NumPy), SQL, and Tableau for reporting and storytelling. Open to collaborating on data projects and always eager to learn new techniques. 🚀

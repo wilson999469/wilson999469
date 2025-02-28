@@ -36,7 +36,7 @@ I’m a Data Analyst passionate about uncovering stories hidden in data and tran
 ## 🌐 Let’s Connect!
 - [Email](mailto: wilsoninforecruit@gmail.com)
 - [LinkedIn] (www.linkedin.com/in/wilson-l-)
-- [Portfolio/Blog] (https://[your-website.com])
+- [Portfolio/Blog] (https://)
 
 ## 🎉 Fun Fact
 I once analyzed a year’s worth of pizza orders to find the perfect topping combo!
